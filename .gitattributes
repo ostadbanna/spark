@@ -1,1 +1,2 @@
 *.sw linguist-language=Rust
+*/.25hgc
