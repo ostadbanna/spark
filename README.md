@@ -2,7 +2,7 @@
 
 Spark is an order book built on the fuel.network blockchain. It operates using an order book model, allowing users to trade various cryptocurrencies in a secure and transparent manner and enables peer-to-peer trading of cryptocurrencies with high transaction throughput and low fees.
 
-## Project Goals: 
+##   Project Goals: 
 - To provide a decentralized, transparent and secure platform for users to trade cryptocurrencies with low fees.
 - To increase the adoption of blockchain technology and cryptocurrencies by providing a user-friendly and efficient platform for trading.
 - To foster a global community of crypto traders and enthusiasts, and to encourage collaboration and knowledge sharing among members.
